@@ -128,7 +128,7 @@ export function Contact() {
           </a>
           <a
             href="https://admimpulsa.com.mx/visualizarEvidencia?idServicio=1706"
-            className="bg-red-600 text-white px-8 py-4 rounded-lg font-semibold hover:bg-green-700 transition duration-300 shadow-lg"
+            className="bg-red-600 text-white px-8 py-4 rounded-lg font-semibold hover:bg-red-700 transition duration-300 shadow-lg"
           >
             <i className="fa-solid fa-file"></i> Descargar CV
           </a>
