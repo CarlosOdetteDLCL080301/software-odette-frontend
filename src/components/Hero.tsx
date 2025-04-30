@@ -3,7 +3,7 @@ export function Hero() {
   return (
     <section id="home" className="py-20 bg-gradient-to-r from-blue-500 to-indigo-600 text-white">
       <div className="container mx-auto px-6">
-        <div className="flex flex-col md:flex-row items-center">
+        <div className="flex flex-col-reverse md:flex-row items-center">
           <div className="md:w-1/2 mb-10 md:mb-0">
             <h1 className="text-4xl md:text-5xl font-bold mb-4">Carlos Odette De La Cruz López</h1>
             <h2 className="text-2xl md:text-3xl mb-6">Ingeniero en Computación</h2>
