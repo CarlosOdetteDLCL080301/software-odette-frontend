@@ -2,7 +2,7 @@ import type { Experience } from "../domain/models/experience"
 
 export const experienceData: Experience[] = [
   {
-    title: "Becario de Desarrollo Web",
+    title: "Desarrollador Web",
     company: "ImpulsaBTL",
     location: "Gustavo A. Madero, CDMX",
     period: "Enero 2024–Actualidad",
