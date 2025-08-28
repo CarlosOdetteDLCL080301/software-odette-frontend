@@ -11,13 +11,19 @@ export function About() {
           <div className="md:w-1/2 mb-10 md:mb-0 md:pr-8">
             <h3 className="text-2xl font-bold mb-4">¿Quién soy?</h3>
             <p className="text-gray-700 mb-6">
-              Estudiante en el último semestre de Ingeniería en Computación en
-              la Facultad de Ingeniería de la UNAM. Con experiencia en
-              desarrollo web, automatización de procesos y gestión de
-              servidores. Apasionado por la optimización de sistemas y la
-              implementación de soluciones tecnológicas eficientes. Habilidad
-              para adaptarse a estructuras de software preexistentes y mejorar
-              su funcionalidad.
+              Estudiante en el último semestre de Ingeniería en Computación en la Facultad
+              de Ingeniería de la UNAM. Experiencia combinada como{" "}
+              <span className="font-semibold">Analista de Datos y Desarrollador Web</span>,
+              participando en la preparación, limpieza y automatización de datos, así como
+              en el diseño de reportes y dashboards para la toma de decisiones. He trabajado
+              en la implementación de procesos ETL con SQL y Python, automatización de
+              reportes con Excel/VBA y desarrollo de funciones web para exportación y
+              análisis de información. Además, cuento con experiencia en mantenimiento de
+              aplicaciones web, gestión de servidores y configuración de campañas digitales.
+              Apasionado por la optimización de sistemas, la analítica de datos y la
+              implementación de soluciones tecnológicas eficientes, con facilidad para
+              integrarme en equipos multidisciplinarios y mejorar estructuras de software y
+              procesos ya existentes.
             </p>
 
             <h3 className="text-2xl font-bold mb-4">Educación</h3>
