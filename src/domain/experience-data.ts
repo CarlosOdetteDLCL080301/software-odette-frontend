@@ -2,10 +2,23 @@ import type { Experience } from "../domain/models/experience"
 
 export const experienceData: Experience[] = [
   {
+    title: "Analista de Datos",
+    company: "ImpulsaBTL",
+    location: "Gustavo A. Madero, CDMX",
+    period: "Abril 2024 – Actualidad",
+    responsibilities: [
+      "Preparé y limpié datos provenientes de CSV y bases de datos para generar reportes operativos.",
+      "Implementé procesos de automatización en Excel y scripts que redujeron el trabajo manual en la generación de reportes.",
+      "Desarrollé y mantuve funciones en la web corporativa para exportar datos en CSV/Excel, facilitando el análisis posterior.",
+      "Apoyé en la extracción y presentación de métricas básicas de campañas en Google Ads para análisis de rendimiento.",
+      "Documenté procedimientos de carga y validación de datos para asegurar la transferencia de conocimiento entre equipos.",
+    ],
+  },
+  {
     title: "Desarrollador Web",
     company: "ImpulsaBTL",
     location: "Gustavo A. Madero, CDMX",
-    period: "Enero 2024–Actualidad",
+    period: "Abril 2024–Actualidad",
     responsibilities: [
       "Mantuve y optimicé la página web de la empresa.",
       "Mejoré la responsividad y funcionalidad del sistema.",

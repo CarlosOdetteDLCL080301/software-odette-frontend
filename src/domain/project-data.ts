@@ -41,4 +41,12 @@ export const projectsData: Project[] = [
     technologies: ["VBA", "Excel", "Automatización"],
     link: "https://github.com/CarlosOdetteDLCL080301/Proyectos-Excel/tree/main/Automatizacion%20de%20cadenas",
   },
+  {
+    title: "Dashboard de Consumo de Video",
+    description:
+      "Diseñé un dashboard en Excel para analizar datos de consumo de video. Incluye métricas de clientes únicos, géneros más vistos, dispositivos utilizados y patrones de visualización, facilitando la interpretación de tendencias de uso.",
+    image: "chart-line", // Icono de Font Awesome (fa-chart-line)
+    technologies: ["Excel", "Power Query", "Tablas dinámicas"],
+    link: "https://github.com/CarlosOdetteDLCL080301/Proyectos-Excel/tree/main/Data%20Analyst%20-%20Contenido%20Streaming",
+  },
 ]
